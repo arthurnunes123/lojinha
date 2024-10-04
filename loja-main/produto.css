@@ -1,0 +1,15 @@
+ body{
+background-color: dimgrey;
+   }
+   h1{
+    text-align: center;
+    font-size: 45px;
+    background-color: grey;
+   }
+   nav{
+    text-align: center;
+   }
+   nav a{
+    color: black;
+   }
+  

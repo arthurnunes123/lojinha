@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-size: 45PX;
+    color:black
+}
+nav{
+    text-align: center;
+    }
+    nav a{
+        color:black ;
+    }
+    header{
+        background-color: grey;
+    }
+    body{
+        background-color: dimgrey;
+    }
+    h2{
+        text-align: center;
+    }
+    div{
+        text-align: center;
+        font-size: 20px;
+    }
+    

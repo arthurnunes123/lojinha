@@ -1,0 +1,27 @@
+
+body{
+    background-color: dimgrey;
+}
+td{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-size:45px ;
+    color: black;
+}
+header{
+    background-color: grey;
+}
+nav{
+    text-align: center;
+}
+nav a {
+    color: black;
+}
+img{
+    border:solid 4px;
+    color:black;
+
+   }
+   
